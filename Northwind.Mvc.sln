@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Mvc", "Northwind.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Common.EntityModels.SqlServer", "Northwind.Common.EntityModels.SqlServer\Northwind.Common.EntityModels.SqlServer.csproj", "{5F0A460B-677E-4D91-A8FE-7CA6B77AFEF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Common.DataContext.SqlServer", "Northwind.Common.DataContext.SqlServer\Northwind.Common.DataContext.SqlServer.csproj", "{CF2EBD57-1690-4965-87D9-193990CBC675}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5F0A460B-677E-4D91-A8FE-7CA6B77AFEF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F0A460B-677E-4D91-A8FE-7CA6B77AFEF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F0A460B-677E-4D91-A8FE-7CA6B77AFEF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2EBD57-1690-4965-87D9-193990CBC675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2EBD57-1690-4965-87D9-193990CBC675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2EBD57-1690-4965-87D9-193990CBC675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2EBD57-1690-4965-87D9-193990CBC675}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
